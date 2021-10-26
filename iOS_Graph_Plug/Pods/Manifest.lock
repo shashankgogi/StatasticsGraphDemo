@@ -1,0 +1,22 @@
+PODS:
+  - Charts (3.2.1):
+    - Charts/Core (= 3.2.1)
+  - Charts/Core (3.2.1)
+  - DropDown (2.3.12)
+
+DEPENDENCIES:
+  - Charts
+  - DropDown
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Charts
+    - DropDown
+
+SPEC CHECKSUMS:
+  Charts: f122fb70b19847fa5817d018b77d6c5a2296ab25
+  DropDown: 0bcc278799ec11a3d34ce1aac9367fbbaf5423d9
+
+PODFILE CHECKSUM: 9aded59888ea4f388cb45b6ad0bf4bd89f89d4bc
+
+COCOAPODS: 1.5.3
